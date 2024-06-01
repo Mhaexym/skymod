@@ -1,5 +1,5 @@
-#Skymod descriptie
-##design philosophy
+# Skymod descriptie
+## design philosophy
 start on pure stone island with dark cave, large enouth for mobs to spawn
 starting on a stone island makes only wood renewable early(with moss) this makes stone a valueble recource
 that creates interesting player choises
@@ -33,7 +33,7 @@ These are some dynamics i observe, that should often be encouraged:
   same goes for making dirt, or other crowable crop land scarse
 slowing the base game down is the best way to create interesting mid game chalanges
 
-##To think of:
+## To think of:
 - maybe add more boss like enemies in the mid game for the adventure type players (think phantom like enemies)
 - think of cool way(s) to get diamonds, that require great feats preferably keeping gamer archetypes in mind
 - think of how better tools will unlock new tech, go form wood/stone(not renewable in early game) => gold/iron (cheap with nether)
@@ -45,7 +45,7 @@ the way these tools create interesting player choise (do i sacrifice precious st
 - think of new fun redstone chalanges that can also be done manually by grinders for the lategame (iron glolums break blocks when damaged?)
 - maybe add a midgame boss type enemy in the nether, use phantom like spawning mechanism, maybe some sort of ghast king
 
-##To be impimented:
+## To be impimented:
 
 fluid changes:
 - water makes no source blocks
