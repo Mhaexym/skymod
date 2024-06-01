@@ -148,7 +148,15 @@ New blocks, ash and hummus:
 
 New plant mechanic:
 - every plant has preferred soil that grows it quicker/makes bonemeal more effective
+- soil blocks also keep track of moisture, and plants have preffered moisture
 
 soil degredation:
-- when shitty farming practices are used (planting the same plant on the same block)
+- soil blocks keep track of organic compounds, when these hit threshholds the soil changes:
+ organic compound decreases when the same plant is grown twice on one block
+ also decreases when block is exposed to rain or water
+ increases when a different plant is grown
+ decreases when hoe is used
+ when dirt has 0 organic compound it becomes sand
+ bonemeal increases organic compound
+
 
