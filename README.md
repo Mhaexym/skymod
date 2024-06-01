@@ -152,11 +152,11 @@ New plant mechanic:
 
 soil degredation:
 - soil blocks keep track of organic compounds, when these hit threshholds the soil changes:
- organic compound decreases when the same plant is grown twice on one block
- also decreases when block is exposed to rain or water
- increases when a different plant is grown
- decreases when hoe is used
- when dirt has 0 organic compound it becomes sand
- bonemeal increases organic compound
+- organic compound decreases when the same plant is grown twice on one block
+- also decreases when block is exposed to rain or water
+- increases when a different plant is grown
+- decreases when hoe is used
+- when dirt has 0 organic compound it becomes sand
+- bonemeal increases organic compound
 
 
