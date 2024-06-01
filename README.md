@@ -1,4 +1,4 @@
-# Skymod descriptie!
+# Skymod descriptie!!
 ## design philosophy
 start on pure stone island with dark cave, large enouth for mobs to spawn
 starting on a stone island makes only wood renewable early(with moss) this makes stone a valueble recource
