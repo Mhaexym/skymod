@@ -1,4 +1,4 @@
-# Skymod descriptie
+# Skymod descriptie!!!
 ## design philosophy
 start on pure stone island with dark cave, large enouth for mobs to spawn
 starting on a stone island makes only wood renewable early(with moss) this makes stone a valueble recource
@@ -44,6 +44,7 @@ the way these tools create interesting player choise (do i sacrifice precious st
  maybe even add farmland quality: better hoes make better farmland idk
 - think of new fun redstone chalanges that can also be done manually by grinders for the lategame (iron glolums break blocks when damaged?)
 - maybe add a midgame boss type enemy in the nether, use phantom like spawning mechanism, maybe some sort of ghast king
+- think of mechanics that require large amounds of items (think factorio science) to incentive building large machines
 
 ## To be impimented:
 
